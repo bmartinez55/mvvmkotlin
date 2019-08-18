@@ -1,7 +1,8 @@
-package c.bmartinez.mvvmtutorial
+package c.bmartinez.mvvmtutorial.UI.Quotes
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import c.bmartinez.mvvmtutorial.R
 
 class QuotesActivity : AppCompatActivity() {
 
